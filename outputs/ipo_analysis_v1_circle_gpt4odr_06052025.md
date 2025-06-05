@@ -1,4 +1,4 @@
-# IPO Analysis Framework: Institutional Alpha Generation
+# Circle (CRCL) IPO Investment Analysis - GPT 4o Deep Research
 
 ## Executive Summary
 
