@@ -1,4 +1,4 @@
-# Elite IPO Analysis Framework: Institutional Alpha Generation
+# IPO Analysis Framework: Institutional Alpha Generation
 
 ## Analyst Persona
 
